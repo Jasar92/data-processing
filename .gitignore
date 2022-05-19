@@ -1,0 +1,25 @@
+
+# Ignore all files in directory __pycache__/
+__pycache__/
+
+.vs/
+
+# Ignore folder created by pycharm
+.idea/
+
+# Ignore text files (tag data is too large to upload) except for those needed in tests
+*.txt
+!TagID 105 from 2018-11-01 00.00.00 to 2019-11-01 00.00.00.txt
+!ISRA fault density.txt
+
+# Ignore files created when powerpoint is open
+~$*.pptx
+
+# Ignore files make by LaTeX
+*.synctex.gz
+*.log
+*.aux
+*.bbl
+*.blg
+*.spl
+*.toc
