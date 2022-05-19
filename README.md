@@ -10,4 +10,5 @@ dataset 4 - 21/02/20 - 25/03/20, dataset 5 - 01/09/20 - 30/06/21 and dataset 6 -
 ## Version 1
 - Adding python tests
 - Add data processing methods
+- Add exclusion periods and test
 - Add ```train.py``` to train PoE (with common hyperparameters) and find order of relvance of input tag data
